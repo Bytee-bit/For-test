@@ -1,9 +1,8 @@
 {
-  "name": "material-kit-2-react",
+  "name": "taxi-booking",
   "version": "2.1.0",
   "private": true,
-  "author": "Creative Tim",
-  "description": "React version of Material Kit 2 by Creative Tim",
+  "author": "JSM Tech",
   "homepage": ".",
   "dependencies": {
     "@emotion/cache": "11.10.7",
